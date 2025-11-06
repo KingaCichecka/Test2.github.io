@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ComputerSystems>
+    <element id="Type of Software">
+        <subelement1>Operating System</subelement1>
+        <subelement2>Application software</subelement2>
+        <subelement3>Utility software</subelement3>
+        <subelement4>Freeware</subelement4>
+    </element>
+    <element id="Example">
+        <subelement1>Windows 11</subelement1>
+        <subelement2>Microsoft Word</subelement2>
+        <subelement3>Antivirus program</subelement3>
+        <subelement4>MacOS</subelement4>
+    </element>
+    <element id="Primary Function">
+        <subelement1>Manages computer</subelement1>
+        <subelement2>Performs specific task</subelement2>
+        <subelement3>Helps in maintaining</subelement3>
+        <subelement4>Examplexecution</subelement4>
+    </element>
