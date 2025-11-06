@@ -1,0 +1,15 @@
+table, th, td {
+    border-collapse: collapse;
+    width: 600px;
+    border: 1px solid black;
+}
+th {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    
+}
+h1 {
+    margin-bottom: 1cm;
+}

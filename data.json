@@ -1,0 +1,22 @@
+{
+    "Examples of softwares":{
+        "most popular": ["Windows 11", "Windows 7"],
+        "others": "Microsoft Word",
+        "others": "Antivirus program",
+        "others": "MacOS"
+    },
+    "Primary Functions":{
+        "most popular": ["Performs specific task", "Manage computer"],
+        "others": "helps in maintaining",
+        "others": "Examplexecution",
+        "others": "compilation"
+    },
+    "Type of Software":{
+        "most popular": ["Operating System"],
+        "others": "Applucation software",
+        "others": "Utility software",
+        "others": "Freeware"
+    }
+
+
+}
